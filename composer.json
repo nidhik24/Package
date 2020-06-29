@@ -1,0 +1,19 @@
+{
+    "name": "readybytes/contact",
+    "description": "This will sent email to admin and save the contact details in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nidhi Kachhawa",
+            "email": "nidhi@readybytes.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Readybytes\\Contact\\": "src/"
+        }
+    }
+}
